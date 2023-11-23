@@ -1,0 +1,109 @@
+---
+title: '"Get the drop, stop the strop"'
+subtitle: '-The Terror of Poliomyelitis-'
+author: "Helen and Nam-Anh"
+format: 
+  revealjs:
+    theme: blood
+editor: source
+smaller: true
+fig-align: center
+---
+
+## Agenda
+
+1. What is Poliomyelitis (Polio)? 
+2. Why did it terrify everyone?
+3. How did we fight against Polio in the past? 
+4. Does polio still exist?
+5. What is the relation between Polio and COVID?
+
+Let us go back to the 1900... 
+
+::: {layout-ncol=2}
+![](polio01.png){width=220}
+
+![](polio02.png){width=280}
+:::
+
+## Q1: What is Polio?
+
+:::: {.columns}
+
+::: {.column width="40%"}
+- 1905-1908: discovered Polio was a highly infectious disease caused by any one of three types of poliovirus (by Ivar Wickman and Karl Landsteiner). 
+- Invades the nervous system and can cause total paralysis in a matter of hours.
+- The virus is transmitted by person-to-person spread mainly through the faecal-oral route and multiplies in the intestine.
+- Mainly affects children under 5 years of age.
+:::
+
+::: {.column width="60%"}
+![](polio03.jpeg){width=600 height=500}
+:::
+
+::::
+
+## Q2: Why did it terrify everyone? 
+
+:::: {.columns}
+
+::: {.column width="40%"}
+- The most inexplicable in its behavior.
+- 6% of the deaths in the age group 5-9 in the 50s. 
+- No prevention, no protection. 
+- _"You cold be good parents or bad parents, and you still had no way to protect your child."_ 
+- **1894**: 18 deaths + 132 paralyzed in the U.S;  
+- **1916**: 2,000 dead in New York + 6,000 dead across the country and thousands more paralyzed; and...
+
+:::
+
+::: {.column width="60%"}
+{{< video https://www.youtube.com/embed/PfoxqghXxEs?start=40&end=116 width="500" height="280" >}}
+
+![](polio05.png){width=400 height=200}
+:::
+
+::::
+
+## Q3: How did we fight against Polio in the past? 
+
+(Let us go to the 1950s...)  
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- **Solution**: Vaccine 
+- **Goal**: Trial $\Rightarrow$ Vaccine $\Rightarrow$ antibodies.
+- **Options**: live-virus (attenuated virus) VS. killed-virus (inactivated virus).
+  - *Live-virus*: High level of long-lasting antibodies; however, cause vaccine-derived polioviruses, i.e. virus mutates into a virulent form and itself be the cause of paralytic or fatal disease.
+  - *Killed-virus:* Safe, but fail to give rise to antibodies.
+:::
+
+::: {.column width="50%"}
+- **Criticism**: Can killed-viruses be the antigen? can it have long-lasting antibodies?
+- **Trial Design**:**Trial Design**: Observed control VS. Double-blind randomized placebo-controlled.  
+  - *Observed control*: insufficiently convincing: (i) uncertainty in the diagnostic process, (ii) liability to influence by the physician's expectation, (iii) selective effect of using volunteers.
+  - *Placebo control*: avoid all above bias.  
+:::
+
+::::
+
+## Q3: How did we fight against Polio in the past? 
+
+- Our heroes: Jonas Salk and Albert Sabin.     
+
+{{< video https://www.youtube.com/embed/A4zZBiOs6j4?start=406&end=1146 width="800" height="450" >}}
+
+## Does polio still exist?
+
+
+
+
+
+
+
+
+
+
+
