@@ -5,6 +5,8 @@ author: "Helen and Nam-Anh"
 format: 
   revealjs:
     theme: blood
+    width: 1200
+    height: 1200
 editor: source
 smaller: true
 fig-align: center
@@ -21,33 +23,25 @@ fig-align: center
 Let us go back to the 1900... 
 
 ::: {layout-ncol=2}
-![](polio01.png){width=220}
+![](polio01.png){width=550}
 
-![](polio02.png){width=280}
+![](polio02.png){width=650}
 :::
 
 ## Q1: What is Polio?
 
-:::: {.columns}
-
-::: {.column width="40%"}
 - 1905-1908: discovered Polio was a highly infectious disease caused by any one of three types of poliovirus (by Ivar Wickman and Karl Landsteiner). 
 - Invades the nervous system and can cause total paralysis in a matter of hours.
 - The virus is transmitted by person-to-person spread mainly through the faecal-oral route and multiplies in the intestine.
 - Mainly affects children under 5 years of age.
-:::
 
-::: {.column width="60%"}
-![](polio03.jpeg){width=600 height=500}
-:::
+![](polio06.png){width=1300 height=500}
 
-::::
 
-## Q2: Why did it terrify everyone? 
+## Q2: Why did polio terrify everyone?
 
-:::: {.columns}
+*(Let us go to the 1950s...)*  
 
-::: {.column width="40%"}
 - The most inexplicable in its behavior.
 - 6% of the deaths in the age group 5-9 in the 50s. 
 - No prevention, no protection. 
@@ -55,20 +49,19 @@ Let us go back to the 1900...
 - **1894**: 18 deaths + 132 paralyzed in the U.S;  
 - **1916**: 2,000 dead in New York + 6,000 dead across the country and thousands more paralyzed; and...
 
+:::: {.columns}
+
+::: {.column width="40%"}
+![](polio05.png){width=430 height=300}{{< video https://www.youtube.com/embed/PfoxqghXxEs?start=40&end=116 width="450" height="280" >}}
 :::
 
 ::: {.column width="60%"}
-{{< video https://www.youtube.com/embed/PfoxqghXxEs?start=40&end=116 width="500" height="280" >}}
-
-![](polio05.png){width=400 height=200}
+{{< video https://www.youtube.com/embed/5BfxpdzwXLA?start=111&end=393 width="1200" height="400" >}}
 :::
 
-::::
+:::::
 
-## Q3: How did we fight against Polio in the past? 
-
-(Let us go to the 1950s...)  
-
+## Q3: How did we fight against Polio in the past? (1/2) 
 
 :::: {.columns}
 
@@ -89,13 +82,41 @@ Let us go back to the 1900...
 
 ::::
 
-## Q3: How did we fight against Polio in the past? 
+{{< video https://www.youtube.com/embed/A4zZBiOs6j4?start=406&end=1146 width="1000" height="600" >}}
 
-- Our heroes: Jonas Salk and Albert Sabin.     
+## Q3: How did we fight against Polio in the past? (2/2) 
 
-{{< video https://www.youtube.com/embed/A4zZBiOs6j4?start=406&end=1146 width="800" height="450" >}}
+Was it really 90%? 
 
-## Does polio still exist?
+{{< video https://www.youtube.com/embed/WTQ4Iou_XA4?start=31&end=150 width="1000" height="600" >}}
+
+Dr. Hanley will tell you the story behind this result. 
+
+## [Q4: Does polio still exist? (1/2)](https://ourworldindata.org/polio)
+
+- WHO launched the Global Polio Eradication Initiative (GPEI) in 1988.
+- By 1999, 99% reduction of polio cases, eradicated wild poliovirus type 2, and all polioviruses from 3 of the 6 WHO regions. 
+- Mid-2003, two Nigerian states suspended oral (attenuated) poliovirus vaccine use, which caused new outbreaks in 20 polio-free countries and thousands of children being paralyzed.
+
+<iframe src="https://ourworldindata.org/grapher/reported-paralytic-polio-cases-and-deaths-in-the-united-states-since-1910?time=earliest..2019" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+##  [Q4: Does polio still exist? (2/2)](https://ourworldindata.org/polio)
+
+<iframe src="https://ourworldindata.org/grapher/progress-towards-polio-eradication?time=2020" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/number-of-estimated-paralytic-polio-cases-by-world-region?time=earliest..2020" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
+## Q5: What is the relation between Polio and COVID?
+
+Question: Do you believe Vaccination With Oral Polio Vaccine Reduces COVID-19 Incidence? 
+
+::: {#fig-RefCardR}
+<iframe width="100%" height="950" src="paper01.pdf"></iframe>
+
+Yagovkina (2022)
+:::
+
 
 
 
