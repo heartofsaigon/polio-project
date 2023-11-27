@@ -7,7 +7,7 @@ format:
     theme: league
     transition: fade
 editor: source
-fontsize: 26pt
+fontsize: 25pt
 ---
 
 
@@ -144,7 +144,7 @@ __Randomization + placebo control__
 
 ---__Was it really 90%?__ ---
 
-{{< video https://www.youtube.com/embed/WTQ4Iou_XA4?start=31&end=150 width="900" height="300" >}}
+{{< video https://www.youtube.com/embed/WTQ4Iou_XA4?start=31&end=150 width="1000" height="350" >}}
 
 _Dr. Hanley will tell you the story behind this result._ 
 
@@ -170,11 +170,31 @@ _Dr. Hanley will tell you the story behind this result._
 
 <iframe src="https://ourworldindata.org/grapher/number-of-estimated-paralytic-polio-cases-by-world-region?time=earliest..2020" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-## Q5: What is the relation between Polio and COVID? {.r-fit-text .smaller}
+## Q5: What is the relation between Polio and COVID? {.smaller}
+
+::: {.panel-tabset group="language"}
+
+## Article
+
+<iframe width="90%" height="430" src="paper01.pdf"></iframe>
+
+## Table 4
+
+![](polio08.png){width=1000 height=300 fig-align="center"}
+
+:::
+
+
+::: {style="font-size: 78%;"}
 
 Question: Do you believe Vaccination With Oral Polio Vaccine Reduces COVID-19 Incidence? 
-<iframe width="90%" height="500" src="paper01.pdf"></iframe>
-Yagovkina (2022) 
+
+*__Live attenuated vaccines (LAVs) were shown to induce non-specific protection against a broad spectrum of off-target pathogens by stimulating innate immune responses. The purpose of this study was to evaluate the effect of immunization with bivalent Oral Poliovirus Vaccine (bOPV) on the incidence of COVID-19 and other acute respiratory infections (ARIs).__*
+
+:::
+
+
+
 
 
 
