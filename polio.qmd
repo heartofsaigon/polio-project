@@ -4,7 +4,7 @@ subtitle: '---The Terror of Poliomyelitis---'
 author: "Helen and Nam-Anh"
 format: 
   revealjs:
-    theme: default
+    theme: league
     transition: fade
 editor: source
 fontsize: 26pt
@@ -131,7 +131,7 @@ __Randomization + placebo control__
 
 :::: {.columns}
 
-::: {.column width="35%"}
+::: {.column width="30%"}
 
 ---__Result__---
 
@@ -140,11 +140,11 @@ __Randomization + placebo control__
 
 :::
 
-::: {.column width=65%"}
+::: {.column width=70%"}
 
 ---__Was it really 90%?__ ---
 
-{{< video https://www.youtube.com/embed/WTQ4Iou_XA4?start=31&end=150 width="700" height="300" >}}
+{{< video https://www.youtube.com/embed/WTQ4Iou_XA4?start=31&end=150 width="900" height="300" >}}
 
 _Dr. Hanley will tell you the story behind this result._ 
 
