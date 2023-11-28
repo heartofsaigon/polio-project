@@ -56,28 +56,44 @@ Let us go back to the 1900...
 
 :::::
 
-## Q3: How did we fight against Polio in the past? (1/5) {.smaller}
+## Q3: How did we fight against Polio in the past? (1/6) {.smaller}
 
-:::: {.columns}
+::: {.panel-tabset group="language"}
 
-::: {.column width="50%"}
+## Trial design
+
 - **Solution**: Vaccine 
 - **Goal**: Trial $\Rightarrow$ Vaccine $\Rightarrow$ antibodies.
-- **Options**: live-virus (attenuated virus) VS. killed-virus (inactivated virus).
+- **Options**: (oral) lived (attenuated) virus (OPV) VS. killed (inactivated) virus (IPV).
   - *Live-virus*: High level of long-lasting antibodies; however, cause vaccine-derived polioviruses, i.e. virus mutates into a virulent form and itself be the cause of paralytic or fatal disease.
   - *Killed-virus:* Safe, but fail to give rise to antibodies.
+  
+- **Vaccine Development**:
+
+  - In the thirties, two of these were in use for a time. However, evidence that at least one of these vaccines had been responsible for cases of paralytic polio caused both to be promptly withdrawn from use.
+  
+  - In late forties, the development of vaccines was stimulated by the development of a tissue culture technique for growing polio virus. It tried to develop harmless strains from virulent ones by growing them for many generations in suitable tissue media.
+  - In the early fifties, the killed-virus vaccine developed by Jonas Salk had been shown to be both safe and capable of inducing high levels of the antibody.
+  
+## OPV or IPV {style="font-size: 20%;"}
+
+- Salk vaccine (IPV) was licensed in 1955; 
+- OPV was introduced by Dr. Albert Sabin 8 years later. it replaced IPV due to ease of administration and affordability. 
+- A trivalent version of OPV was introduced in 1963;
+- An enhanced potency IPV containing larger amounts of inactivated polioviruses was licensed in the US in 1987. 
+- To help in achieving the global polio eradication, monovalent OPV type 1 vaccine has been developed (licensed in 2005). It seems to lead to greater type-specific immunity than trivalent OPV.
+- Despite its effectiveness of OPV in preventing infection by wildtype polioviruses, OPV will have to be stopped because continuous use of OPV would maintain the risks of paralytic poliomyelitis (VAPP), and
+- Re-acquisition of the neurovirulence and transmission characteristics of wild poliovirus, i.e. vaccine-derived polioviruses (VDPV), which can occur after the attenuated virus in OPV mutates during replication, silently occuring for a long period of time, to regain virulence. 
+- Supplementary immunization activity have been conducted with either trivalent OPV (since February 2006) to control the current outbreak. The use of IPV vaccine is the only way to avoid the risk of VAPP or VDPV.
+
 :::
+  
 
-::: {.column width="50%"}
-- **Criticism**: Can killed-viruses be the antigen? can it have long-lasting antibodies?
-- **Trial Design**:**Trial Design**: Observed control VS. Double-blind randomized placebo-controlled.  
-  - *Observed control*: insufficiently convincing: (i) uncertainty in the diagnostic process, (ii) liability to influence by the physician's expectation, (iii) selective effect of using volunteers.
-  - *Placebo control*: avoid all above bias.  
-:::
 
-::::
 
-## Q3: How did we fight against Polio in the past? (2/5) {.smaller .r-fit-text}
+
+  
+## Q3: How did we fight against Polio in the past? (3/6) {.smaller}
 
 --- __1954 Field Trial__ ---
 
@@ -117,16 +133,16 @@ __Randomization + placebo control__
 
 ::::
 
-## Q3: How did we fight against Polio in the past? (3/5)
+## Q3: How did we fight against Polio in the past? (4/6)
 
 ![](polio07.png){width=900 height=500}
 
 
-## Q3: How did we fight against Polio in the past? (4/5) 
+## Q3: How did we fight against Polio in the past? (5/6) 
 
 {{< video https://www.youtube.com/embed/A4zZBiOs6j4?start=406&end=1146 width="1000" height="550" >}}
 
-## Q3: How did we fight against Polio in the past? (5/5) {.smaller}
+## Q3: How did we fight against Polio in the past? (6/6) {.smaller}
 
 
 :::: {.columns}
