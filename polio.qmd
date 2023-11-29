@@ -123,7 +123,6 @@ __Randomization + placebo control__
 - Ramdomize vaccine / placebo to all 2nd grade volunteers
 - Pros:
   - minimize the previously mentioned bias
-  - placebo injection -- small risk
   - double blind
 - Cons:
   - parents’ concerns on children receiving ineffective salt solution
