@@ -7,7 +7,7 @@ format:
     theme: league
     transition: fade
 editor: source
-fontsize: 25pt
+fontsize: 24pt
 ---
 
 
@@ -63,15 +63,15 @@ Let us go back to the 1900...
 ## Trial design
 
 - **Solution**: Vaccine 
-- **Goal**: Trial $\Rightarrow$ Vaccine $\Rightarrow$ antibodies.
+- **Challenges**:
+  - The incidence rate varies from season to season and area to area.
+  - The vagaries of diagnosis and reporting.
 - **Options**: (oral) lived (attenuated) virus (OPV) VS. killed (inactivated) virus (IPV).
   - *Live-virus*: High level of long-lasting antibodies; however, cause vaccine-derived polioviruses, i.e. virus mutates into a virulent form and itself be the cause of paralytic or fatal disease.
   - *Killed-virus:* Safe, but fail to give rise to antibodies.
   
 - **Vaccine Development**:
-
   - In the thirties, two of these were in use for a time. However, evidence that at least one of these vaccines had been responsible for cases of paralytic polio caused both to be promptly withdrawn from use.
-  
   - In late forties, the development of vaccines was stimulated by the development of a tissue culture technique for growing polio virus. It tried to develop harmless strains from virulent ones by growing them for many generations in suitable tissue media.
   - In the early fifties, the killed-virus vaccine developed by Jonas Salk had been shown to be both safe and capable of inducing high levels of the antibody.
   
