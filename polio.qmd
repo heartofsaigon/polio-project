@@ -70,10 +70,10 @@ Let us go back to the 1900...
 - **Vaccine Development**:
   - In the thirties, two of these were in use for a time. However, evidence that at least one of these vaccines had been responsible for cases of paralytic polio caused both to be promptly withdrawn from use.
   - In late forties, the development of vaccines was stimulated by the development of a tissue culture technique for growing polio virus. It tried to develop harmless strains from virulent ones by growing them for many generations in suitable tissue media.
-  - *Challenges*:
+  - In the early fifties, the killed-virus vaccine developed by Jonas Salk had been shown to be both safe and capable of inducing high levels of the antibody.
+ - **Challenges**:
     - The incidence rate varies from season to season and area to area.
     - The vagaries of diagnosis and reporting.
-  - In the early fifties, the killed-virus vaccine developed by Jonas Salk had been shown to be both safe and capable of inducing high levels of the antibody.
   
 ## OPV or IPV {style="font-size: 20%;"}
 
