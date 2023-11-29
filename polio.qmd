@@ -11,7 +11,7 @@ fontsize: 24pt
 ---
 
 
-## Agenda {.center}
+## Agenda {.smaller}
 
 1. What is Poliomyelitis (Polio)? 
 2. Why did it terrify everyone?
@@ -19,7 +19,9 @@ fontsize: 24pt
 4. Does polio still exist?
 5. What is the relation between Polio and COVID?
 
-Let us go back to the 1900... 
+![](polio09.jpeg){width=400 height=400 fig-align="center"} Let us go back to the 1900... 
+
+
 
 ## Q1: What is Polio? {.smaller .r-fit-text}
 
