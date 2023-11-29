@@ -63,9 +63,6 @@ Let us go back to the 1900...
 ## Trial design
 
 - **Solution**: Vaccine 
-- **Challenges**:
-  - The incidence rate varies from season to season and area to area.
-  - The vagaries of diagnosis and reporting.
 - **Options**: (oral) lived (attenuated) virus (OPV) VS. killed (inactivated) virus (IPV).
   - *Live-virus*: High level of long-lasting antibodies; however, cause vaccine-derived polioviruses, i.e. virus mutates into a virulent form and itself be the cause of paralytic or fatal disease.
   - *Killed-virus:* Safe, but fail to give rise to antibodies.
@@ -73,6 +70,9 @@ Let us go back to the 1900...
 - **Vaccine Development**:
   - In the thirties, two of these were in use for a time. However, evidence that at least one of these vaccines had been responsible for cases of paralytic polio caused both to be promptly withdrawn from use.
   - In late forties, the development of vaccines was stimulated by the development of a tissue culture technique for growing polio virus. It tried to develop harmless strains from virulent ones by growing them for many generations in suitable tissue media.
+  - *Challenges*:
+    - The incidence rate varies from season to season and area to area.
+    - The vagaries of diagnosis and reporting.
   - In the early fifties, the killed-virus vaccine developed by Jonas Salk had been shown to be both safe and capable of inducing high levels of the antibody.
   
 ## OPV or IPV {style="font-size: 20%;"}
@@ -143,29 +143,15 @@ __Randomization + placebo control__
 
 ## Q3: How did we fight against Polio in the past? (6/6) {.smaller}
 
-
-:::: {.columns}
-
-::: {.column width="30%"}
-
 ---__Result__---
 
 - The most expensive medical experiment (randomized and double-blinded design) costs over 5 million dollars.
-- The killed-virus vaccine developed by Jonas Salk at the University of Pittsburgh had been shown to be both safe. Next, its effectiveness should be proved.
-
-:::
-
-::: {.column width=70%"}
 
 ---__Was it really 90%?__ ---
 
-{{< video https://www.youtube.com/embed/WTQ4Iou_XA4?start=31&end=150 width="1000" height="350" >}}
+{{< video https://www.youtube.com/embed/WTQ4Iou_XA4?start=31&end=150 width="600" height="350" >}}
 
 _Dr. Hanley will tell you the story behind this result._ 
-
-:::
-
-::::
 
 ## [Q4: Does polio still exist? (1/4)](https://ourworldindata.org/polio)
 
