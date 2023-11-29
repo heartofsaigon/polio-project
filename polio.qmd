@@ -44,6 +44,8 @@ fontsize: 24pt
 - **1894**: 18 deaths + 132 paralyzed in the U.S;  
 - **1916**: 2,000 dead in New York + 6,000 dead across the country and thousands more paralyzed; and...
 
+{{< video https://www.youtube.com/embed/BTUJyazbJ2Y width="200" height="100" >}}
+
 ## Q2: Why did polio terrify everyone? (2/2)
 
 :::: {.columns}
